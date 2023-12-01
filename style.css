@@ -1,0 +1,73 @@
+.body {
+  background-color: rgb(243, 246, 247);
+  color: #444;
+}
+
+.main {
+  background-color: #fff;
+  padding: 16px;
+  border-radius: 16px;
+  width: 640px;
+  margin: auto;
+  margin-bottom: 32px;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  padding: 0 8px;
+  border-radius: 4px;
+  background-color: rgb(50, 137, 112);
+  color: #fff;
+  font-weight: 600;
+}
+
+.button:hover {
+  background-color: rgb(61, 156, 140);
+}
+
+.title {
+  font-size: 4rem;
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.logo {
+  width: 640px;
+}
+
+.headline {
+  font-size: 2rem;
+  font-weight: 600;
+  margin: 1rem 0;
+}
+
+.headline-sub {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 1rem 0;
+}
+
+.kakeru {
+  color: #888;
+  font-weight: 600;
+  margin-top: 2rem;
+}
+
+.text {
+  margin: 1rem 0;
+}
+
+.screenshot {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  border: 1px solid #0002;
+}
+
+.line {
+  color: #0002;
+  margin: 32px 0;
+}
