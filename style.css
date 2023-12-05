@@ -38,6 +38,12 @@
   width: 640px;
 }
 
+.desc {
+  font-weight: 600;
+  margin-bottom: 32px;
+  text-align: center;
+}
+
 .headline {
   font-size: 2rem;
   font-weight: 600;
