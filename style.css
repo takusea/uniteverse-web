@@ -64,13 +64,13 @@
 
 .list {
   margin-bottom: 2rem;
-  list-style: disc;
 }
 
 .listitem {
   line-height: 1.75;
   margin-bottom: 0.5rem;
-  margin-left: 1rem;
+  display: flex;
+  gap: 8px;
 }
 
 .label {
