@@ -62,6 +62,17 @@
   transform:scale(1, 1);
 }
 
+.list {
+  margin-bottom: 2rem;
+  list-style: disc;
+}
+
+.listitem {
+  line-height: 1.75;
+  margin-bottom: 0.5rem;
+  margin-left: 1rem;
+}
+
 .label {
   z-index: 1;
 }
