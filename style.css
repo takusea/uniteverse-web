@@ -1,5 +1,7 @@
 .body {
-  background-image: url("img/background.jpg");
+  background-image: url("img/background-2.png"), url("img/background.jpg");
+  background-repeat: repeat-y, repeat-y;
+  background-position: center top;
   color: #222;
   font-family: 'Noto Sans JP', sans-serif;
   word-break: auto-phrase;
