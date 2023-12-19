@@ -64,6 +64,17 @@
   transform:scale(1, 1);
 }
 
+.list {
+  margin-bottom: 2rem;
+}
+
+.listitem {
+  line-height: 1.75;
+  margin-bottom: 0.5rem;
+  display: flex;
+  gap: 8px;
+}
+
 .label {
   z-index: 1;
 }
